@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background: aqua;
+}
+h1{
+    border: inset purple;
+    font-size: 70px ;
+    color:black ;
+    text-align: center;
+    margin: 0 auto;
+}
+ul{ 
+    border: inset red;
+    text-align: center;
+    list-style: none;
+    width: 30rem;
+    padding: 30px;
+    margin: 0 auto;
+    font-size: 28px ;
+}
+ol{
+    border: outset darkgoldenrod;
+    text-align: center; 
+    list-style: none;
+    font-size: 28px ;
+    width: 30rem;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+    font-size: 28px;
+    border: inset lightseagreen;
+    width: 30rem;
+    margin: 0 auto;
+}
+hr{
+    border: 2px dotted black;
+}
+a{
+    border: 1px solid black;
+}
